@@ -1,6 +1,11 @@
 /build
 /.settings
+<<<<<<< HEAD
 /gradle
 /.gradle
 /.classpath
 /.projct
+=======
+/.classpath
+/.projct
+>>>>>>> 1bea0b406e57c4191aaf621fa2f109ddf84814a1
